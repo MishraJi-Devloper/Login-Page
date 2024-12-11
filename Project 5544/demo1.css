@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+  background-image: url(https://images.pexels.com/photos/28874283/pexels-photo-28874283/free-photo-of-minimal-workspace-with-laptop-and-coffee-mug.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+
+.hifi {
+  background-color: black;
+  height: 40px;
+  color: white;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.hifi a {
+  color: white;
+  text-decoration: none;
+  margin: 85px;
+}
+footer {
+  text-align: center;
+  margin-right: 12px;
+}
+
+#hii {
+  text-align: center;
+  display: inline-block;
+  background-color: black;
+  width: 20%;
+  height: 20%;
+}
+
+.product {
+  display: inline-block;
+  background-color: rgb(179, 230, 238);
+}
+
+#gaa {
+  text-decoration: underline;
+}

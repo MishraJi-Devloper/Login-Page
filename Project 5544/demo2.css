@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+  margin: 10px;
+  padding: 10px;
+}
+
+.box {
+  align-items: center;
+  color: #ddd;
+  background-color: #0c0909;
+  height: 15;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #dd7f7f16;
+  text-align: center;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfrT8Vjk9QJrwwSwwBUzizJ2vPTiZ9Y6lcA&s);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+.form-container {
+  width: 50%;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-input {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px dotted #f9f8f8;
+  border-radius: 5px;
+}
+
+.form-input:focus {
+  border-color: #aaa;
+  box-shadow: 0 0 10px rgba(136, 83, 157, 0.1);
+}
+
+.register-button {
+  width: 100%;
+  height: 60px;
+  background-color: #4caf50;
+  color: #0c0909;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.register-button:hover {
+  background-color: #3e838e;
+}
+
+a {
+  text-decoration: palevioletred;
+}

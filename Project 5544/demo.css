@@ -1,0 +1,64 @@
+h1 {
+  color: aliceblue;
+  text-decoration: underline;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  background-image: url(https://i.pinimg.com/736x/97/f8/3a/97f83ac9dcee8f86e34a7b5d1b488e13.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  text-align: center;
+}
+
+#uff {
+  color: rgb(4, 100, 103);
+}
+
+.box {
+  text-align: center;
+  height: 500px;
+  width: 280px;
+  background-image: url(https://i.pinimg.com/736x/97/f8/3a/97f83ac9dcee8f86e34a7b5d1b488e13.jpg);
+  padding: 50px;
+  margin: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ini {
+  text-align: center;
+  height: 55px;
+  width: 180px;
+  padding: 50px;
+  margin: 50px;
+  background-color: #c71515;
+  padding: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#lol {
+  margin: 50px;
+  padding: 50px;
+  background-color: aquamarine;
+  height: 55px;
+  width: 180px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+  background-color: white;
+  border-color: black;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+footer {
+  color: white;
+  text-align: right;
+  margin-right: 50px;
+}
